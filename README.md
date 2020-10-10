@@ -1,4 +1,4 @@
-# theming
+## Custom Theming
 
 Custom Light Theme/ Dark Theme
 
