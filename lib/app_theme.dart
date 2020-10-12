@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 
 class AppTheme {
-  AppTheme._();
+  
+  /* If the leading character is an underscore, then the function/constructor is private to the library */
+  AppTheme._();                  
 
   static Color _iconColor = Colors.blueAccent.shade200;
 
